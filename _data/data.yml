@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: My Full Name # Alan Rigoberto Razo Mendez 
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  tagline: Ruby on Rails Web Developer
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
@@ -19,7 +19,7 @@ sidebar:
   github: alanRazoMen
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: ''
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -27,7 +27,7 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level:  # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level:  4-5 IELTS # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
